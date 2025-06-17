@@ -2,6 +2,8 @@
 hello.py
 .venv/
 __pycache__/
-opentrain.egg-info/
+
 data/MNIST/
 dist/
+*.egg-info/
+.pypirc

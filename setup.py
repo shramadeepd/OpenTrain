@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="opentrain",
+    name="opentrain-ml",
     version="0.0.1",
     description="Modular and extensible ML training framework",
     author="Shramadeep",
